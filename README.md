@@ -30,7 +30,7 @@ Node.js (v14 or above)
 Installation
 
 # 1. Clone the repository
-git clone https://github.com/shrravya10/resume-builder.git
+git clone https://github.com/siddd0707/resume-builder.git
 cd resume-builder
 
 # 2. Install dependencies
